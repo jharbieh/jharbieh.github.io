@@ -1,0 +1,17 @@
+# Jekyll configuration for jharbieh.github.io
+# Add your custom settings below
+
+title: "Johnny's Dev Blog"
+description: "A blog about tech, migration, and learning."
+author: "Johnny Harbieh"
+email: "johnny@example.com"
+url: "https://jharbieh.github.io"
+baseurl: ""
+theme: minima
+social:
+  twitter: johndev
+  github: jharbieh
+  linkedin: johnnyharbieh
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
