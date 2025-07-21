@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Johnny Harbieh"
-description: "Welcome to my Webeccentric Jekyll blog!"
+title: "Johnny Harbieh Coffee Shop IT WEBECCENTRIC Blog"
+description: "Welcome to Johnny Harbieh Coffee Shop IT WEBECCENTRIC Blog. This blog is about technology, music and career."
 ---
 
 <section>

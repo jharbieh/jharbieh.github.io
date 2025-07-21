@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
+title: Contact Johnny Harbieh Coffee Shop IT WEBECCENTRIC Blog
 permalink: /contact/
 ---
 
-You can reach me at johnny@example.com or via my social links on the About page.
+You can reach me at johnny@webeccentric.com or via my social links on the About page.
