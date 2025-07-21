@@ -1,12 +1,12 @@
 ---
-layout: home
+layout: default
 title: "Johnny Harbieh Coffee Shop IT WEBECCENTRIC Blog"
 description: "Welcome to Johnny Harbieh Coffee Shop IT WEBECCENTRIC Blog. This blog is about technology, music and career."
 ---
 
 <section>
   <h2>Hello World!</h2>
-  <p>Welcome to my site. Explore my latest blog posts, projects, and more below.</p>
+  <p>Welcome to my blog! Johnny Harbieh Coffee Shop IT WEBECCENTRIC Blog! This blog is about technology, music and career.</p>
 </section>
 
 <footer class="footer">
