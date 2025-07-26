@@ -1,0 +1,31 @@
+Webeccentric Resume Style Guide
+
+Color Palette:
+- Primary Color: Webeccentric Blue (#1A73E8, RGB: 26, 115, 232) — Use for headings, section titles, and key highlights.
+- Secondary Color: Coral Accent (#FF6F61, RGB: 255, 111, 97) — Use for call-to-action elements, icons, or badges.
+- Neutral Colors:
+  - Dark Gray (#333333, RGB: 51, 51, 51) — Body text, footer background.
+  - Light Gray (#F5F5F5, RGB: 245, 245, 245) — Section backgrounds, dividers.
+  - Pure White (#FFFFFF, RGB: 255, 255, 255) — Page background, cards.
+
+Typography:
+- Primary Typeface: Montserrat
+  - 700 (Bold) for H1–H2 (Main page titles, section headers)
+  - 600 (Semi-Bold) for H3–H4 (Sub-section headings, card titles)
+  - H1: 48px, line-height 56px
+  - H2: 36px, line-height 44px
+  - H3: 28px, line-height 36px
+  - H4: 24px, line-height 32px
+- Secondary Typeface: Open Sans
+  - 400 (Regular) for body text (16px, line-height 24px)
+  - 300 (Light) for captions, meta text (14px, line-height 20px)
+
+Usage Guidelines:
+- Maintain a 4.5:1 contrast ratio for text on background.
+- Use primary color for interactive elements (links, buttons).
+- Reserve secondary color for accents and promotions.
+- Headings use Montserrat; body and small text use Open Sans.
+- Keep paragraphs left-aligned with 1.5× line-height for readability.
+
+Prompt for Microsoft 365 Copilot:
+"Generate a resume using the Webeccentric style guide above. Apply the specified color palette and typography for all headings, sections, and body text. Use Montserrat for headings and Open Sans for body. Highlight key sections with Webeccentric Blue and accents with Coral. Ensure high contrast and clean, modern layout."
