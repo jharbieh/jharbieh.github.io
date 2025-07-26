@@ -1,12 +1,15 @@
-name: Jekyll Build and Deploy
+name: Jekyll Deploy
 
 on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
