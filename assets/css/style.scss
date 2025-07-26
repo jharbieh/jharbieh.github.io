@@ -1,6 +1,11 @@
+---
+---
+
 /* Webeccentric Style Guide Implementation */
-@import url('https://fonts.googleapis.com/css?family=Montserrat:700,600&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300&display=swap');
+/* Import Google Fonts in your HTML <head> instead of SCSS:
+<link href="https://fonts.googleapis.com/css?family=Montserrat:700,600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300&display=swap" rel="stylesheet">
+*/
 
 :root {
   --primary-blue: #1A73E8;
