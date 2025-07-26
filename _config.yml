@@ -6,7 +6,7 @@ description: "Johnny Harbieh Coffee Shop IT WEBECCENTRIC Blog is about technolog
 author: "Johnny Harbieh"
 email: "johnny@webeccentric.com"
 url: "https://jharbieh.github.io"
-baseurl: "https://jharbieh.github.io"
+baseurl: ""
 theme: minima
 social:
   twitter: jharbieh
