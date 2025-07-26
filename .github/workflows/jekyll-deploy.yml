@@ -23,7 +23,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        gem install bundler
+        gem install bundler -v 2.5.23
         bundle install
 
     - name: Build Jekyll site
